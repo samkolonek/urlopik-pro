@@ -1,6 +1,6 @@
-==============================================================================
 
-                                URLOPIK PRO
+
+URLOPIK PRO
 
 Wersja: 5.29.5
 Autor: samkolonek@gmail.com
